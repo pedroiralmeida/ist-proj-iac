@@ -1,5 +1,5 @@
 ; ************************************************
-; PROJETO DE IAC (Versão Intermédia)
+; PROJETO DE IAC (Versão Final)
 ; Grupo 21
 ; Realizado por:
 ; - Fábio Neto,     104126

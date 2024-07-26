@@ -12,6 +12,17 @@ https://github.com/user-attachments/assets/a1c74126-eda0-4393-842d-84d5d3a03689
 
 The goal of this project is to simulate a game where a rover defends planet X by obtaining energy from good meteors and destroying bad meteors, which are robotic ships sent to invade the planet. The game interface includes a screen, a keyboard for game control, and a set of displays to show the rover's energy levels.
 
+## Keyboard
+
+The game is played with a virtual keyboard provided by the simulator, which only has 16 keys.
+
+- **Key 0**: move rover to the left.
+- **Key 1**: fire a bullet.
+- **Key 2**: move rover to the right.
+- **Key C**: start/restart the game.
+- **Key D**: pause the game.
+- **Key E**: end the game.
+
 ## Features
 
 - **Multimedia Capabilities**: Utilizes the MediaCenter module of the simulator to define background images, play sounds and videos, and create image layers pixel by pixel.
