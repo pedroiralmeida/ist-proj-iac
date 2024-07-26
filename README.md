@@ -1,10 +1,10 @@
-# Meteor shower Game
+# Meteor Shower Game
 
 Welcome to the Meteor Shower game project! This repository contains the implementation of a computer architecture project that exercises the fundamentals of assembly language programming, peripherals, and interrupts.
 
 ## Gameplay
 
-You can watch a video showing the gameplay by [clicking here](https://github.com/pedroiralmeida/iac-proj/blob/main/resources/videos/Gameplay.mp4).
+You can watch a video showing the gameplay by [!clicking here](https://github.com/pedroiralmeida/iac-proj/blob/main/resources/videos/Gameplay.mp4).
 
 ## Objectives
 
