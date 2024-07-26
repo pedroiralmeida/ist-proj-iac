@@ -4,7 +4,9 @@ Welcome to the Meteor Shower game project! This repository contains the implemen
 
 ## Gameplay
 
-You can watch a video showing the gameplay by [!clicking here](https://github.com/pedroiralmeida/iac-proj/blob/main/resources/videos/Gameplay.mp4).
+The following video shows how the game works.
+
+https://github.com/user-attachments/assets/a1c74126-eda0-4393-842d-84d5d3a03689
 
 ## Objectives
 
